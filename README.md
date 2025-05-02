@@ -1,5 +1,4 @@
 # Mall-Customer-Segmentation
-# Mall Customer Segmentation
 
 An unsupervised machine learning project for segmenting mall customers using K-Means clustering.
 
@@ -70,8 +69,4 @@ Mall-Customer-Segmentation/
 
 ![image](https://github.com/user-attachments/assets/30659385-d0ea-4d50-9d41-5157e51bb5da)
 
-
-
-## 🏷️ Tags
-#DataMining #KMeans #CustomerSegmentation #Streamlit #Python #MachineLearning #Clustering #EDA #DataScience #DataAnalyst #PowerBI #DataEngineer #BusinessIntelligence
 
