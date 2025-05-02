@@ -1,1 +1,1 @@
-# all-Customer-Segmentation
+# Mall-Customer-Segmentation
